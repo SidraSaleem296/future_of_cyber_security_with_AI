@@ -6,8 +6,7 @@ Welcome to the **Future of Cybersecurity Seminar**! This repository contains the
 
 - **Filename:** Future of Cybersecurity Seminar.pdf
 - **Date:** 23rd July 2023
-- **Host:** Prof. Dr. M M Alam
-- **Guest:** Sidra Saleem
+- **Guest Speaker:** Sidra Saleem
 
 ## 📚 Overview
 
